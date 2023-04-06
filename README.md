@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shahzaib834
-- 👀 I’m interested in React, MERN Stack, Blockchain Development.
-- 🌱 I’m currently learning React, MERN Stack, Blockchain Development.
+- 👀 I’m interested in React, MERN Stack, MEAN Stack.
 - 📫 How to reach me virgo834@gmail.com
 
 <!---
