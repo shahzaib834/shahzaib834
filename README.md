@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahzaib834
-- 👀 I’m interested in MERN, MEAN, NEXT, NEST.
+- 👀 I’m interested in React, Angular, NEXT, NEST.
 - 📫 How to reach me virgo834@gmail.com
 - https://shahzaib834.github.io/MyPortfolio/
 
